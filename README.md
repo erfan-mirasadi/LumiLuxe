@@ -1,4 +1,10 @@
-https://lumiluxe.studio/
+<p align="center">
+	<a href="https://lumiluxe.studio/" target="_blank">
+		<img src="public/img/logo.png" alt="LumiLuxe Logo" width="120" style="margin-bottom: 10px;" />
+		<br />
+		<b>https://lumiluxe.studio/</b>
+	</a>
+</p>
 
 # LumiLuxe 👗✨
 
@@ -53,4 +59,18 @@ npm install
 
 # Run the development server
 npm run dev
+```
+
+```bash
+# Clone the repo
+git clone https://github.com/erfan-mirasadi/LumiLuxe.git
+
+# Navigate into the project folder
+cd lumi-luxe
+
+# Install dependencies (recommended)
+yarn install
+
+# Run the development server
+yarn dev
 ```
