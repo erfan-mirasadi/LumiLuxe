@@ -1,6 +1,6 @@
 # LumiLuxe 👗✨
 
-_A modern women’s fashion website built with elegance, interactivity, and performance in mind._
+modern women’s fashion website built with elegance, interactivity, and performance in mind.
 
 ---
 
