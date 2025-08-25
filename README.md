@@ -49,20 +49,6 @@ This project is built using a modern frontend stack:
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/lumi-luxe.git
-
-# Navigate into the project folder
-cd lumi-luxe
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-```
-
-```bash
-# Clone the repo
 git clone https://github.com/erfan-mirasadi/LumiLuxe.git
 
 # Navigate into the project folder
