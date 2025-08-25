@@ -28,17 +28,17 @@ function ContactUs() {
                 </div>
 
                 <div className="space-y-4">
-                  <div>
+                  {/* <div>
                     <p className="text-sm text-gray-400">Phone</p>
                     <p className="text-lg">+98 507 354 2097</p>
-                  </div>
+                  </div> */}
                   <div>
                     <p className="text-sm text-gray-400">Email</p>
                     <p className="text-lg">erfan.mirasadi@gmail.com</p>
                   </div>
                   <div>
                     <p className="text-sm text-gray-400">Website</p>
-                    <p className="text-lg">www.g0oz.com</p>
+                    <p className="text-lg">www.iamerfan.me</p>
                   </div>
                 </div>
 
