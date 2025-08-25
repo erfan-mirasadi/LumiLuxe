@@ -15,8 +15,8 @@ function Products() {
       id: 1,
       name: "Eclipta",
       images: [
-        "/img/product-1.jpg",
         "/img/product-2.jpg",
+        "/img/product-11.jpg",
         "/img/product-3.jpg",
       ],
       price: "$85.59",
@@ -27,16 +27,22 @@ function Products() {
     {
       id: 2,
       name: "Aurora Bloom",
-      images: ["/img/product-4.jpg", "/img/product-5.jpg"],
-      price: "$109.68",
+      images: ["/img/product-4.jpg"],
+      price: "$67.99",
       description: "Ultra-lightweight titanium frame with polarized lenses",
       size: "tall",
     },
     {
       id: 3,
       name: "Veloura",
-      images: ["/img/product-6.jpg", "/img/product-7.jpg"],
-      price: "$98.9",
+
+      images: [
+        "/img/product-1.jpg",
+        "/img/product-6.jpg",
+        "/img/product-5.jpg",
+        "/img/product-7.jpg",
+      ],
+      price: "$98.99",
       description:
         "Soft yet statement-making. A fabric story woven with elegance and intention.",
       size: "wide",
@@ -53,8 +59,8 @@ function Products() {
     {
       id: 5,
       name: "Luxeveil",
-      images: ["/img/product-10.jpg", "/img/product-11.jpg"],
-      price: "$450",
+      images: ["/img/product-10.jpg", "/img/contact-3.jpg"],
+      price: "$45.99",
       description:
         "A soft, flowing masterpiece designed to make your everyday feel like a runway moment.",
       size: "medium",
