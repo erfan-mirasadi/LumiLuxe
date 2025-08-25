@@ -6,7 +6,6 @@ import MainLayout from "../ui/MainLayout";
 import ErrorPage from "../ui/ErrorPage";
 import ContactUs from "../pages/ContactUs";
 
-const basename = "/LumiLuxe/";
 const appRouter = createBrowserRouter([
   {
     element: <MainLayout />,
@@ -17,7 +16,6 @@ const appRouter = createBrowserRouter([
       { path: "/contact", element: <ContactUs /> },
     ],
   },
-  { basename },
 ]);
 
 export default appRouter;
